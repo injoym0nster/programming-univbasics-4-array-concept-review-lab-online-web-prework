@@ -1,4 +1,4 @@
-def find_element_index(array, value_to_find)
+def find_element_index(array, value_to_finnnd)
   # Add your solution here
 end
 
